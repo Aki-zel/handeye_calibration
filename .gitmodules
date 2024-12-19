@@ -1,0 +1,6 @@
+[submodule "src/moveit_calibration"]
+	path = src/moveit_calibration
+	url = https://github.com/moveit/moveit_calibration.git
+[submodule "src/easy_handeye"]
+	path = src/easy_handeye
+	url = https://github.com/IFL-CAMP/easy_handeye.git
