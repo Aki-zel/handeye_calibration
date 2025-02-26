@@ -4,3 +4,6 @@
 [submodule "src/easy_handeye"]
 	path = src/easy_handeye
 	url = https://github.com/IFL-CAMP/easy_handeye.git
+[submodule "src/easy_aruco"]
+	path = src/easy_aruco
+	url = https://github.com/marcoesposito1988/easy_aruco
